@@ -2,7 +2,7 @@
 .wheel-container {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    margin-top: 80px;
     align-items: center;
     height: 100vh;
     z-index: 2;
