@@ -16,7 +16,7 @@
     width: 80%;
     background-color: rgba(78, 122, 35, 0.7); /* Green with transparency */
     display: inline-table;
-    padding: 50px;
+    padding: 40px;
     align-items: center;
     border-radius: 10px;
     z-index: 999; /* Ensure it appears on top */
