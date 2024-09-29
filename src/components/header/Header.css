@@ -4,6 +4,7 @@
     z-index: 2; /* Ensure it appears above the FullScreenImage */
     text-align: center;
     margin: 20px 0;
+    margin-top: 160px;
   }
   
   .header-title {
