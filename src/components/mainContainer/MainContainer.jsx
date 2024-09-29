@@ -6,7 +6,7 @@ import localImage from '../../img/bible_background.png'
 const MainContainer = () => {
   return (
     <div className="fullscreen-image">
-      <img src={localImage} alt="Background baseball" />
+      <img src={localImage} alt="Background baseball indicator" />
     </div>
   );
 };
