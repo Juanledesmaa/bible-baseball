@@ -1,0 +1,111 @@
+{
+  "categoria_1": {
+    "preguntas": [
+      {
+        "pregunta": "Según Filipenses 1:9, ¿qué pide Pablo que abunde en los creyentes?",
+        "opciones": ["a) Su amor", "b) Su sabiduría", "c) Su riqueza", "d) Su salud"],
+        "respuesta_correcta": "a) Su amor"
+      },
+      {
+        "pregunta": "En Filipenses 2:4, ¿qué debemos procurar?",
+        "opciones": ["a) Nuestros propios intereses", "b) Los intereses de los demás", "c) El bienestar personal", "d) La perfección espiritual"],
+        "respuesta_correcta": "b) Los intereses de los demás"
+      },
+      {
+        "pregunta": "Según Filipenses 2:9, ¿qué le otorgó Dios a Jesús después de su sacrificio?",
+        "opciones": ["a) Una corona de oro", "b) Riquezas inmensas", "c) Un nombre que es sobre todo nombre", "d) Poder para juzgar a los vivos y los muertos"],
+        "respuesta_correcta": "c) Un nombre que es sobre todo nombre"
+      },
+      {
+        "pregunta": "¿Qué dice Pablo en Filipenses 3:13-14 que hace con su vida?",
+        "opciones": ["a) Se olvida de lo que queda atrás y se esfuerza por lo que está adelante", "b) Vive en el pasado", "c) Busca siempre lo mejor para su familia", "d) Vive una vida sin preocupaciones"],
+        "respuesta_correcta": "a) Se olvida de lo que queda atrás y se esfuerza por lo que está adelante"
+      },
+      {
+        "pregunta": "En Filipenses 4:7, ¿qué dice Pablo que guardará nuestros corazones y pensamientos?",
+        "opciones": ["a) El conocimiento de la Palabra", "b) El amor de los hermanos", "c) La paz de Dios", "d) La justicia"],
+        "respuesta_correcta": "c) La paz de Dios"
+      },
+      {
+        "pregunta": "¿Qué consejo da Pablo en Filipenses 4:8 sobre lo que debemos pensar?",
+        "opciones": ["a) Lo que es justo, puro y digno de alabanza", "b) Lo que es placentero para nosotros", "c) Las riquezas del mundo", "d) Los deseos del corazón"],
+        "respuesta_correcta": "a) Lo que es justo, puro y digno de alabanza"
+      },
+      {
+        "pregunta": "En Filipenses 1:29, ¿qué dice Pablo que nos fue concedido por amor a Cristo?",
+        "opciones": ["a) Ser perseguidos", "b) El sufrimiento", "c) La vida eterna", "d) Creer en Él y sufrir por Él"],
+        "respuesta_correcta": "d) Creer en Él y sufrir por Él"
+      },
+      {
+        "pregunta": "Según Filipenses 3:20, ¿de dónde es nuestra ciudadanía?",
+        "opciones": ["a) Del cielo", "b) De la tierra", "c) De Jerusalén", "d) De la iglesia"],
+        "respuesta_correcta": "a) Del cielo"
+      },
+      {
+        "pregunta": "¿Qué le pidió Pablo a los filipenses en Filipenses 4:9?",
+        "opciones": ["a) Que hicieran todo lo que habían aprendido, recibido y visto en él", "b) Que oraran siempre sin cesar", "c) Que vivieran tranquilos", "d) Que dieran de sus bienes a los demás"],
+        "respuesta_correcta": "a) Que hicieran todo lo que habían aprendido, recibido y visto en él"
+      }
+    ]
+  },
+  "categoria_2": {
+    "preguntas": [
+      {
+        "pregunta": "Filipenses 1:21 dice: 'Para mí, el vivir es ______ y el morir es ______.'",
+        "respuesta_correcta": ["Cristo", "ganancia"]
+      },
+      {
+        "pregunta": "Filipenses 2:12 dice: 'Ocúpense de su salvación con ______ y ______.'",
+        "respuesta_correcta": ["temor", "temblor"]
+      },
+      {
+        "pregunta": "Filipenses 3:8 dice: 'Todo lo demás no vale nada cuando se le compara con el ______ de conocer a Cristo.'",
+        "respuesta_correcta": ["infinito valor"]
+      },
+      {
+        "pregunta": "Filipenses 4:6 dice: 'No se preocupen por ______, oren por ______.'",
+        "respuesta_correcta": ["nada", "todo"]
+      },
+      {
+        "pregunta": "Filipenses 2:14 dice: 'Hagan todo sin ______ y ______.'",
+        "respuesta_correcta": ["quejarse", "discutir"]
+      },
+      {
+        "pregunta": "Filipenses 1:9 dice: 'Pido que su amor desborde cada vez más en ______ y ______.'",
+        "respuesta_correcta": ["conocimiento", "entendimiento"]
+      },
+      {
+        "pregunta": "Filipenses 4:19 dice: 'Mi Dios les proveerá de todo lo que necesiten conforme a las ______ que tiene en ______.'",
+        "respuesta_correcta": ["gloriosas riquezas", "Cristo Jesús"]
+      },
+      {
+        "pregunta": "Filipenses 3:13 dice: 'Olvidando lo que queda atrás y ______ hacia lo que está adelante.'",
+        "respuesta_correcta": ["esforzándome"]
+      }
+    ]
+  },
+  "categoria_3": {
+    "preguntas": [
+      {
+        "pregunta": "En Filipenses 1:21, Pablo dice: 'Para mí el vivir es Cristo y el morir es ganancia'. ¿Cómo interpretas este versículo en términos de cómo debemos vivir nuestras vidas en el día a día?",
+        "respuesta_sugerida": "Pablo nos muestra que vivir significa servir a Cristo en todo lo que hacemos, mientras que morir es obtener la recompensa final de estar con Él. Esto nos anima a vivir con propósito y dedicación, sabiendo que nuestra vida tiene un valor eterno."
+      },
+      {
+        "pregunta": "Filipenses 2:3-4 habla sobre la humildad y el considerar a los demás como más importantes que uno mismo. ¿Cómo podrías aplicar este principio en tus relaciones interpersonales hoy en día?",
+        "respuesta_sugerida": "Aplicar este principio significa enfocarnos en los intereses y necesidades de los demás, sin buscar la gloria personal. En nuestras relaciones, debemos practicar la empatía, el respeto y la generosidad, valorando a las personas más que nuestros propios deseos."
+      },
+      {
+        "pregunta": "En Filipenses 3:7-8, Pablo considera todo lo demás como basura en comparación con conocer a Cristo. ¿Qué cosas en tu vida podrías estar poniendo por encima de tu relación con Cristo y cómo puedes corregir esto?",
+        "respuesta_sugerida": "Podríamos estar priorizando el éxito personal, el trabajo o las relaciones sobre nuestra relación con Cristo. Corregir esto requiere hacer un análisis honesto de nuestras prioridades y dedicar tiempo y esfuerzo a profundizar en nuestra fe a través de la oración y la obediencia."
+      },
+      {
+        "pregunta": "Filipenses 4:12-13 nos enseña sobre estar contentos en cualquier circunstancia. ¿Cómo podrías aplicar esta lección cuando enfrentas dificultades financieras o emocionales?",
+        "respuesta_sugerida": "Esta lección nos enseña que la verdadera satisfacción no depende de nuestras circunstancias, sino de nuestra confianza en Cristo. Aplicarlo significa aprender a depender de Dios en tiempos difíciles, recordando que Él es nuestra fuente de fortaleza y provisión."
+      },
+      {
+        "pregunta": "Filipenses 4:8 nos exhorta a pensar en lo que es verdadero, noble, justo, puro, amable, honorable. ¿Cómo influye esto en la manera en que consumes contenido como medios de comunicación, redes sociales o entretenimiento?",
+        "respuesta_sugerida": "Este versículo nos invita a ser intencionales sobre lo que permitimos que influya en nuestras mentes. Aplicarlo podría significar ser más selectivos con el tipo de contenido que consumimos, buscando aquello que edifique y nos acerque a Dios, en lugar de lo que nos distrae o aleja de Su verdad."
+      }
+    ]
+  }
+}

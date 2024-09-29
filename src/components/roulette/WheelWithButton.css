@@ -1,0 +1,31 @@
+
+.wheel-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    z-index: 2;
+}
+
+.wheel-container .wheel {
+    margin-bottom: 20px;
+}
+
+
+.wheel-container button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    z-index: 9999;
+}
+
+.wheel-container button:hover {
+    background-color: #0056b3;
+}
+  

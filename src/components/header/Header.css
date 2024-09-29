@@ -1,0 +1,17 @@
+/* Header.css */
+.header {
+    position: relative; /* Use relative positioning */
+    z-index: 2; /* Ensure it appears above the FullScreenImage */
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .header-title {
+    font-family: 'Norwester', sans-serif;
+    font-size: 8rem; /* Adjust font size as needed */
+    font-weight: bold;
+    color: white; /* Change to your preferred color */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add shadow here */
+    margin: 0;
+  }
+  

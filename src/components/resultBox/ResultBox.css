@@ -1,0 +1,39 @@
+/* Animation for fading in the result box */
+@keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: scale(0.8);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+  
+  .result-box {
+    position: fixed;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    background-color: rgba(78, 122, 35, 0.7); /* Green with transparency */
+    display: inline-table;
+    padding: 50px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    z-index: 999; /* Ensure it appears on top */
+    opacity: 0; /* Start hidden */
+    animation: fadeIn 0.3s ease 0.3s forwards; /* Fade in after a 0.5s delay */
+  }
+  
+  .result-box h1 {
+    font-size: 3rem;
+    color: white;
+    text-align: center;
+  }
+
+  .result-box .options {
+    font-size: 3rem;
+    color: black;
+    text-align: center;
+  }
+  
