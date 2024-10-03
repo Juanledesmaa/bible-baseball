@@ -1,6 +1,6 @@
 {
   "categoria_1": {
-    "preguntas": [
+    "seleccion_multiple": [
       {
         "pregunta": "Según Filipenses 1:9, ¿qué pide Pablo que abunde en los creyentes?",
         "opciones": ["a) Su amor", "b) Su sabiduría", "c) Su riqueza", "d) Su salud"],
@@ -45,11 +45,61 @@
         "pregunta": "¿Qué le pidió Pablo a los filipenses en Filipenses 4:9?",
         "opciones": ["a) Que hicieran todo lo que habían aprendido, recibido y visto en él", "b) Que oraran siempre sin cesar", "c) Que vivieran tranquilos", "d) Que dieran de sus bienes a los demás"],
         "respuesta_correcta": "a) Que hicieran todo lo que habían aprendido, recibido y visto en él"
+      },
+      {
+        "pregunta": "Según Filipenses 1:6, ¿qué está seguro Pablo que Dios completará en los creyentes?",
+        "opciones": [
+          "a) La obra que comenzó en ellos",
+          "b) Su santificación",
+          "c) Su servicio en la iglesia",
+          "d) Su prosperidad"
+        ],
+        "respuesta_correcta": "a) La obra que comenzó en ellos"
+      },
+      {
+        "pregunta": "En Filipenses 1:18, ¿qué dice Pablo que es lo más importante para él?",
+        "opciones": [
+          "a) Que el evangelio se predique",
+          "b) Que él sea liberado de la cárcel",
+          "c) Que los creyentes lo visiten",
+          "d) Que todos reconozcan su sacrificio"
+        ],
+        "respuesta_correcta": "a) Que el evangelio se predique"
+      },
+      {
+        "pregunta": "Según Filipenses 2:13, ¿quién produce en los creyentes el deseo y el poder de hacer lo que agrada a Dios?",
+        "opciones": [
+          "a) El Espíritu Santo",
+          "b) Dios mismo",
+          "c) La Palabra de Dios",
+          "d) La fe en Cristo"
+        ],
+        "respuesta_correcta": "b) Dios mismo"
+      },
+      {
+        "pregunta": "En Filipenses 3:20, ¿qué espera Pablo que venga del cielo?",
+        "opciones": [
+          "a) El Espíritu Santo",
+          "b) La paz de Dios",
+          "c) Al Salvador, el Señor Jesucristo",
+          "d) Un nuevo reino"
+        ],
+        "respuesta_correcta": "c) Al Salvador, el Señor Jesucristo"
+      },
+      {
+        "pregunta": "Según Filipenses 4:11, ¿qué ha aprendido Pablo en cualquier situación?",
+        "opciones": [
+          "a) A estar contento",
+          "b) A depender de los demás",
+          "c) A no preocuparse",
+          "d) A ser independiente"
+        ],
+        "respuesta_correcta": "a) A estar contento"
       }
     ]
   },
   "categoria_2": {
-    "preguntas": [
+    "completa_la_frase": [
       {
         "pregunta": "Filipenses 1:21 dice: 'Para mí, el vivir es ______ y el morir es ______.'",
         "respuesta_correcta": ["Cristo", "ganancia"]
@@ -81,11 +131,31 @@
       {
         "pregunta": "Filipenses 3:13 dice: 'Olvidando lo que queda atrás y ______ hacia lo que está adelante.'",
         "respuesta_correcta": ["esforzándome"]
+      },
+      {
+        "pregunta": "Filipenses 2:5 dice: 'Tengan la misma actitud que tuvo ______.'",
+        "respuesta_correcta": ["Cristo Jesús"]
+      },
+      {
+        "pregunta": "Filipenses 3:10 dice: 'Quiero conocer a Cristo y experimentar el poder que lo levantó de ______.'",
+        "respuesta_correcta": ["los muertos"]
+      },
+      {
+        "pregunta": "Filipenses 4:13 dice: 'Pues todo lo puedo hacer por medio de ______, quien me da ______.'",
+        "respuesta_correcta": ["Cristo", "fortaleza"]
+      },
+      {
+        "pregunta": "Filipenses 1:27 dice: 'Sobre todo, deben comportarse de una manera digna del ______.'",
+        "respuesta_correcta": ["Evangelio de Cristo"]
+      },
+      {
+        "pregunta": "Filipenses 4:4 dice: 'Estén siempre llenos de ______ en el Señor. Lo repito, ¡alégrense!'",
+        "respuesta_correcta": ["alegría"]
       }
     ]
   },
   "categoria_3": {
-    "preguntas": [
+    "analisis": [
       {
         "pregunta": "En Filipenses 1:21, Pablo dice: 'Para mí el vivir es Cristo y el morir es ganancia'. ¿Cómo interpretas este versículo en términos de cómo debemos vivir nuestras vidas en el día a día?",
         "respuesta_sugerida": "Pablo nos muestra que vivir significa servir a Cristo en todo lo que hacemos, mientras que morir es obtener la recompensa final de estar con Él. Esto nos anima a vivir con propósito y dedicación, sabiendo que nuestra vida tiene un valor eterno."
@@ -105,6 +175,26 @@
       {
         "pregunta": "Filipenses 4:8 nos exhorta a pensar en lo que es verdadero, noble, justo, puro, amable, honorable. ¿Cómo influye esto en la manera en que consumes contenido como medios de comunicación, redes sociales o entretenimiento?",
         "respuesta_sugerida": "Este versículo nos invita a ser intencionales sobre lo que permitimos que influya en nuestras mentes. Aplicarlo podría significar ser más selectivos con el tipo de contenido que consumimos, buscando aquello que edifique y nos acerque a Dios, en lugar de lo que nos distrae o aleja de Su verdad."
+      },
+      {
+        "pregunta": "En Filipenses 1:6, Pablo dice que Dios terminará la buena obra que comenzó en nosotros. ¿Qué significa esto para tu vida en momentos en que sientes que no estás avanzando espiritualmente?",
+        "respuesta_sugerida": "Este versículo nos recuerda que nuestra transformación es un proceso continuo que Dios está obrando. Incluso cuando no vemos avances, podemos confiar en que Él no ha terminado con nosotros y que completará Su obra en Su tiempo perfecto."
+      },
+      {
+        "pregunta": "Filipenses 2:13 dice que Dios produce en nosotros el querer y el hacer por su buena voluntad. ¿Cómo cambia esta verdad la manera en que enfrentas tus luchas para obedecer a Dios?",
+        "respuesta_sugerida": "Esto nos enseña que no dependemos solo de nuestra fuerza de voluntad para obedecer, sino que Dios está activamente trabajando en nosotros, dándonos tanto el deseo como la capacidad para cumplir Su voluntad."
+      },
+      {
+        "pregunta": "En Filipenses 3:14, Pablo habla de seguir adelante hacia la meta. ¿Qué significa para ti mantener la vista en el premio en tiempos de dificultad?",
+        "respuesta_sugerida": "Mantener la vista en el premio significa vivir con una perspectiva eterna, recordando que nuestras dificultades actuales no se comparan con la gloria que nos espera. Esto nos da fuerzas para perseverar y no rendirnos."
+      },
+      {
+        "pregunta": "Filipenses 4:6-7 nos exhorta a no preocuparnos, sino a orar en toda ocasión. ¿Cómo puedes aplicar este principio en situaciones de estrés o incertidumbre?",
+        "respuesta_sugerida": "En situaciones de estrés, podemos aplicar este principio al llevar nuestras preocupaciones a Dios en oración, confiando en que Su paz, que sobrepasa todo entendimiento, guardará nuestros corazones y mentes en Cristo Jesús."
+      },
+      {
+        "pregunta": "Pablo menciona en Filipenses 4:12-13 que ha aprendido a estar contento en cualquier situación. ¿Qué te enseña esto sobre la importancia de la gratitud y el contentamiento en tu vida diaria?",
+        "respuesta_sugerida": "Este pasaje nos enseña que el contentamiento no depende de nuestras circunstancias externas, sino de nuestra confianza en Cristo. Practicar la gratitud nos ayuda a enfocarnos en lo que Dios ya ha provisto, en lugar de lo que nos falta."
       }
     ]
   }
