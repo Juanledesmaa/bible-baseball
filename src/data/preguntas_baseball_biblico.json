@@ -1,6 +1,6 @@
 {
   "categoria_1": {
-    "seleccion_multiple": [
+    "preguntas": [
       {
         "pregunta": "Según Filipenses 1:9, ¿qué pide Pablo que abunde en los creyentes?",
         "opciones": ["a) Su amor", "b) Su sabiduría", "c) Su riqueza", "d) Su salud"],
@@ -99,7 +99,7 @@
     ]
   },
   "categoria_2": {
-    "completa_la_frase": [
+    "preguntas": [
       {
         "pregunta": "Filipenses 1:21 dice: 'Para mí, el vivir es ______ y el morir es ______.'",
         "respuesta_correcta": ["Cristo", "ganancia"]
@@ -155,7 +155,7 @@
     ]
   },
   "categoria_3": {
-    "analisis": [
+    "preguntas": [
       {
         "pregunta": "En Filipenses 1:21, Pablo dice: 'Para mí el vivir es Cristo y el morir es ganancia'. ¿Cómo interpretas este versículo en términos de cómo debemos vivir nuestras vidas en el día a día?",
         "respuesta_sugerida": "Pablo nos muestra que vivir significa servir a Cristo en todo lo que hacemos, mientras que morir es obtener la recompensa final de estar con Él. Esto nos anima a vivir con propósito y dedicación, sabiendo que nuestra vida tiene un valor eterno."

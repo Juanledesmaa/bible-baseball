@@ -14,8 +14,9 @@
 
 .wheel-container button {
     padding: 10px 20px;
-    font-size: 16px;
-    background-color: #007bff;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: black;
     color: white;
     border: none;
     border-radius: 5px;
@@ -27,4 +28,5 @@
 .wheel-container button:hover {
     background-color: #0056b3;
 }
+
   

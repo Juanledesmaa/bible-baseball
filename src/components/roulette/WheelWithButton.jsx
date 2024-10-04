@@ -97,7 +97,7 @@ const WheelWithButton = () => {
               onStopSpinning={handleStop}
             />
           </div>
-          <button onClick={handleSpin}>Spin the Wheel</button>
+          <button onClick={handleSpin}>BATEAR</button>
         </>
       )}
 
